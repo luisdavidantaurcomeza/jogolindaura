@@ -83,7 +83,7 @@ const checkCollision = () => {
         corredor.style.bottom = `${corredorPosition}px`;
 
         corredor.src = './img/perdeu.gif';
-        corredor.style.width = '700px';
+        corredor.style.width = '500px';
         corredor.style.position = 'absolute';
         corredor.style.top = '50%';
         corredor.style.left = '50%';
