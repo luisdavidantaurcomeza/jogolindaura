@@ -35,16 +35,7 @@ body {
     overflow: hidden;
 }
 
-.sobreposta {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 1800%; 
-    animation: sobreposta-animation 130s linear infinite;
-    z-index: 1;
-    animation-delay: 0s;
-}
+
 
 .calçada {
     position: absolute;
