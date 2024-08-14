@@ -395,6 +395,11 @@ body {
     #game-over-text {
         font-size: 18px;
     }
+
+    .vilão, .corredor {
+        border: 1px solid red; /* Apenas para testes */
+    }
+    
 }
 
 @media (max-width: 480px) {
@@ -414,4 +419,9 @@ body {
     #game-over-text {
         font-size: 16px;
     }
+
+    .vilão, .corredor {
+        border: 1px solid red; /* Apenas para testes */
+    }
+    
 }
